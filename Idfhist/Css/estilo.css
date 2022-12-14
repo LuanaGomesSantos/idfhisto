@@ -1,0 +1,146 @@
+body{
+    background-color:#BFB893 ;
+    font-family: 'Times New Roman', Times, serif;
+}
+#cabecalho{
+    background-color:#731D1D;
+     padding-top: 20px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;padding-top: 5px; padding-left: 16px;padding-right: 16px; padding-bottom: 16px;
+}
+a:link {
+    color: #A3A649;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:visited{
+    color: #A3A649;
+}
+a:hover {
+    background-color: #593B16;
+    text-decoration: underline;
+    padding:8px ;
+}
+h1{
+    color: #593B16;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#primeirotexto{
+    width: 60%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #A3A649;
+    align-self: center;
+    
+}
+#tabela{
+    width: 60%;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px; 
+    text-align: center;
+
+}
+footer{
+    font-size: 15PX;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #731D1D;
+    padding: 15px;
+    text-align: center;
+    margin-top: 5%;
+    clear: both;
+}
+#imagens1 {
+    text-align: center;
+    width: 60%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 16px;
+    
+}
+.logo{
+    text-align: center;
+}
+.fonteimg {
+    float: left;
+    width: 5%;
+    margin-left: 2%;
+    
+}
+.fontes {
+    float: right;
+    width: 40%;
+    margin-left: 5%;
+    background-color: #8C6046;
+    font-size: 18px;
+    padding: 2%;
+    margin-bottom: 10%;
+    margin-right: 3%;
+}
+.textofonte {
+    font-size: 20px;
+    text-align: center;
+}
+#atualtexto {
+    background-color:#8C6046 ;
+    width: 60%;
+    float: right;
+    padding: 7px;
+    font-size: 20px;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    
+}
+#imagematual{
+    margin-top: 5%;
+    float: left;
+    margin-left: 3%;
+}
+h2{
+    color: #731D1D;
+    text-align: center;
+    clear: both;
+    align-items: center;
+}
+.mapa {
+    text-align: center;
+}
+.introatual {
+    font-size:20px;
+    margin:5%
+} 
+#textovermelho{
+        width: 60%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        padding: 5%;
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color: #8C6046;
+}
+#textocontato{
+    margin-left: 5%;
+    float: left;
+    background-color: #8C6046;
+    padding: 5%;
+}
+#imgcontato{
+    float: right;
+    margin-right: 5%;
+}
